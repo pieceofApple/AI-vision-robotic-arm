@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 大体积镜像/固件（避免推送失败）
+*.img.xz
+*.img

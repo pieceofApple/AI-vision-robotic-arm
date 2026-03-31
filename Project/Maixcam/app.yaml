@@ -1,0 +1,8 @@
+id: robotic_arm
+name: Robotic arm
+version: 1.1.0
+author: sternstunde
+icon: app.png
+desc: 运用于自己的四轴机械臂，UDP发送坐标
+files:
+  - main.py
